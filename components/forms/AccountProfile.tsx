@@ -90,6 +90,11 @@ const AccountProfile = ({ user, btnTitle }: Props) => {
       path: pathname
     });
 
+    if(pathname === '/profile/edit') {
+      router.back();
+    } else {
+      router.push('/');
+    }
   }
 
     return (
