@@ -1,4 +1,4 @@
-# Fullstack Airbnb Clone 🏡
+# Fullstack Threads Clone 🏡
 
 🚀 **Exciting Progress Update!**  
 I'm thrilled to share the latest on Threads web application, a groundbreaking app that quickly surpassed 100,000,000 signups in just 5 days, outshining even ChatGPT and TikTok to become the fastest-growing app ever.
